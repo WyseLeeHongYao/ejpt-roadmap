@@ -224,3 +224,14 @@ This comprehensive checklist is designed for those completing the Penetration Te
 
 
 ***_If you wish to include additional rooms, blogs, notes, or share your exam experience, feel free contribute to this roadmap._***
+
+
+<div align="center">
+<a href="https://star-history.com/#nyxragon/ejpt-roadmap&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=nyxragon/ejpt-roadmap&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=nyxragon/ejpt-roadmap&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=nyxragon/ejpt-roadmap&type=Date" />
+ </picture>
+</a>
+</div>
