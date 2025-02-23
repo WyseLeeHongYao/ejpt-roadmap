@@ -54,8 +54,8 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Assessment Methodologies - Information Gathering   | [✅]       |
 |                | Assessment Methodologies - Footprinting and Scanning| [✅]       |
-| Tryhackme       |  [Hacker Methodology](https://tryhackme.com/room/hackermethodology)| [ ]       |
-|                |  [Intro To Research](https://tryhackme.com/room/introtoresearch)| [ ]       |
+| Tryhackme       |  [Hacker Methodology](https://tryhackme.com/room/hackermethodology)| [✅]       |
+|                |  [Intro To Research](https://tryhackme.com/room/introtoresearch)| [✅]       |
 |                |  [Passive Recon](https://tryhackme.com/room/passiverecon)| [ ]       |
 |                |  [Active Recon](https://tryhackme.com/room/activerecon)| [ ]       |
 |                |  [Nmap](https://tryhackme.com/room/furthernmap) | [✅]       |
@@ -94,7 +94,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | Penetration Testing Student Course             | Assessment Methodologies - Vulnerability Assessment   | [ ]       |
 |  | Assessment Methodlogies - Auditing Fundamentals | [ ] |
 |  | Host & Network Penetration Testing - System/Host Based Attack (Complete till windows part) | [ ] |
-| Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [ ]       |
+| Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [✅]       |
 |        |  [Nessus](https://tryhackme.com/room/rpnessusredux)| [ ]       |
 |        |  [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)| [ ]       |
 |        |  [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)| [ ]       |
@@ -113,7 +113,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Host & Network Penetration Testing - System/Host Based Attack (Remaining part)   | [ ]       |
 |      | Host & Network Penetration Testing: Network-Based Attacks | [ ] | 
-| TryHackMe   |  [Blue](https://tryhackme.com/room/blue)| [ ]       |
+| TryHackMe   |  [Blue](https://tryhackme.com/room/blue)| [✅]       |
 |    |  [Ice](https://tryhackme.com/room/ice)| [ ]       |
 |  |[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)|[ ]|
 | |[Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)|[ ]|
@@ -131,7 +131,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Host & Network Penetration Testing: The Metasploit Framework (MSF)   | [ ]       |
-| TryHackme | [Metasploit: Introduction](https://tryhackme.com/jr/metasploitintro) |[ ] |
+| TryHackme | [Metasploit: Introduction](https://tryhackme.com/jr/metasploitintro) |[✅] |
 | | [Metasploit: Exploitation](https://tryhackme.com/jr/metasploitexploitation) |[ ] |
 | | [Metasploit: Meterpreter](https://tryhackme.com/jr/meterpreter) |[ ] |
 | | [HeartBleed](https://tryhackme.com/room/heartbleed) |[ ] |
@@ -191,10 +191,10 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Host & Network Penetration Testing: Social Engineering   | [ ]       |
 |   | Web Application Penetration Testing: Introduction to the Web and HTTP   | [ ]       |
-| TryHackMe | [OWASP Top 10](https://tryhackme.com/room/owasptop10)   | [ ]       |
+| TryHackMe | [OWASP Top 10](https://tryhackme.com/room/owasptop10)   | [✅]       |
 |  | [Web Enumeration](https://tryhackme.com/room/webenumerationv2)   | [ ]       |
 |  | [SQLMAP](https://tryhackme.com/room/sqlmap) | [ ] |
-|  | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | [ ] |
+|  | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | [✅] |
 |  | [Blog](https://tryhackme.com/room/blog)   | [ ]       |
 |  | [Vulnversity](https://tryhackme.com/room/vulnversity)   | [ ]       |
 |  | [Hydra](https://tryhackme.com/room/hydra)| [ ]       |
