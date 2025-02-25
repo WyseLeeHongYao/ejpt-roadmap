@@ -72,7 +72,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
-| Penetration Testing Student Course             | Assessment Methodologies - Enumeration   | [ ]       |
+| Penetration Testing Student Course             | Assessment Methodologies - Enumeration   | [✅]       |
 | Tryhackme |  [Nmap Post Port Scan](https://tryhackme.com/room/nmap04)| [ ]       |
 |        |  [Network Services](https://tryhackme.com/room/networkservices)| [ ]       |
 |  Blogs   |  [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap)| [ ]       |
@@ -91,7 +91,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
-| Penetration Testing Student Course             | Assessment Methodologies - Vulnerability Assessment   | [ ]       |
+| Penetration Testing Student Course             | Assessment Methodologies - Vulnerability Assessment   | [✅]       |
 |  | Assessment Methodlogies - Auditing Fundamentals | [ ] |
 |  | Host & Network Penetration Testing - System/Host Based Attack (Complete till windows part) | [ ] |
 | Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [✅]       |
