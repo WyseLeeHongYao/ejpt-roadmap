@@ -75,13 +75,13 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | Penetration Testing Student Course             | Assessment Methodologies - Enumeration   | [✅]       |
 | Tryhackme |  [Nmap Post Port Scan](https://tryhackme.com/room/nmap04)| [ ]       |
 |        |  [Network Services](https://tryhackme.com/room/networkservices)| [ ]       |
-|  Blogs   |  [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap)| [ ]       |
-|        |  [Enumeration guide for beginners](https://www.hackercoolmagazine.com/enumeration-guide-for-beginners/)| [ ]       |
+|  Blogs   |  [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap)| [✅]       |
+|        |  [Enumeration guide for beginners](https://www.hackercoolmagazine.com/enumeration-guide-for-beginners/)| [✅]       |
 |        |  [Remote port and service enumeration – nmap](https://linuxconcept.com/remote-port-and-service-enumeration-nmap/)| [ ]       |
-|        |  [Enumerate SMB with Enum4linux & Smbclient](https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/)| [ ]       |
-|        |  [Scanning for SMB Vulnerabilities with enum4linux](https://infosecwriteups.com/scanning-for-smb-vulnerabilities-with-enum4linux-896f76d0c078)| [ ]       |
-|        |  [Nmap Scripts (NSE): The Key To Enhance Your Network Scans](https://securitytrails.com/blog/nmap-scripts-nse)| [ ]       |
-|        |  [Network Vulnerability and Scanning: Explanation of Nmap Script Engine (NSE) with Hands on Practice](https://koayyongcett.medium.com/lesson-11-network-vulnerability-and-scanning-explanation-of-nmap-script-engine-nse-with-hands-70a98311cae8)| [ ]       |
+|        |  [Enumerate SMB with Enum4linux & Smbclient](https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/)| [✅]       |
+|        |  [Scanning for SMB Vulnerabilities with enum4linux](https://infosecwriteups.com/scanning-for-smb-vulnerabilities-with-enum4linux-896f76d0c078)| [✅]       |
+|        |  [Nmap Scripts (NSE): The Key To Enhance Your Network Scans](https://securitytrails.com/blog/nmap-scripts-nse)| [✅]       |
+|        |  [Network Vulnerability and Scanning: Explanation of Nmap Script Engine (NSE) with Hands on Practice](https://koayyongcett.medium.com/lesson-11-network-vulnerability-and-scanning-explanation-of-nmap-script-engine-nse-with-hands-70a98311cae8)| [✅]       |
 |        |  [How to Use Hydra  to Hack Passwords – Penetration Testing Tutorial](https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/)| [ ]       |
 
 
@@ -93,7 +93,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Assessment Methodologies - Vulnerability Assessment   | [✅]       |
 |  | Assessment Methodlogies - Auditing Fundamentals | [ ] |
-|  | Host & Network Penetration Testing - System/Host Based Attack (Complete till windows part) | [ ] |
+|  | Host & Network Penetration Testing - System/Host Based Attack (Complete till windows part) | [✅] |
 | Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [✅]       |
 |        |  [Nessus](https://tryhackme.com/room/rpnessusredux)| [ ]       |
 |        |  [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)| [ ]       |
